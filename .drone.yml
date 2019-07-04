@@ -1,5 +1,5 @@
 kind: pipeline
-name: MaestroCI Build Bot
+name: Rom Build Bot
 
 steps:
 - name: test
